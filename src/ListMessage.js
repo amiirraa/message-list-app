@@ -68,9 +68,9 @@ class ListMessage extends Component {
                                             {"numElems": messageID, "id": messageID, "text": this._input.value, "vis": this._public.value}
                                             )});
 
-             this.setState({messages: this.state.messages.filter(function (el) {
-    return el.vis == "public";
-  })});
+             //this.setState({messages: this.state.messages.filter(function (el) {
+    //return el.vis == "public";
+        // })});
     }
 
     

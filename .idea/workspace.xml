@@ -21,19 +21,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ListMessage.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ListMessage.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ListMessage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="70" column="33" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
+            <state relative-caret-position="825">
+              <caret line="72" column="11" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
               <folding>
-                <marker date="1509305919000" expanded="true" signature="2231:2478" ph="..." />
-                <marker date="1509305919000" expanded="true" signature="2631:3403" ph="..." />
-                <marker date="1509305919000" expanded="true" signature="2652:2704" ph="..." />
-                <marker date="1509305919000" expanded="true" signature="2771:3379" ph="..." />
-                <marker date="1509305919000" expanded="true" signature="2810:3100" ph="..." />
-                <marker date="1509305919000" expanded="true" signature="2881:3077" ph="..." />
-                <marker date="1509305919000" expanded="true" signature="2907:3052" ph="..." />
+                <marker date="1509379213000" expanded="true" signature="2244:2491" ph="..." />
+                <marker date="1509379213000" expanded="true" signature="2644:3416" ph="..." />
+                <marker date="1509379213000" expanded="true" signature="2665:2717" ph="..." />
+                <marker date="1509379213000" expanded="true" signature="2784:3392" ph="..." />
+                <marker date="1509379213000" expanded="true" signature="2823:3113" ph="..." />
+                <marker date="1509379213000" expanded="true" signature="2894:3090" ph="..." />
+                <marker date="1509379213000" expanded="true" signature="2920:3065" ph="..." />
               </folding>
             </state>
           </provider>
@@ -101,7 +101,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="registerServiceWorker.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="registerServiceWorker.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/registerServiceWorker.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1092">
@@ -259,22 +259,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ListMessage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="70" column="33" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
-          <folding>
-            <marker date="1509305919000" expanded="true" signature="2231:2478" ph="..." />
-            <marker date="1509305919000" expanded="true" signature="2631:3403" ph="..." />
-            <marker date="1509305919000" expanded="true" signature="2652:2704" ph="..." />
-            <marker date="1509305919000" expanded="true" signature="2771:3379" ph="..." />
-            <marker date="1509305919000" expanded="true" signature="2810:3100" ph="..." />
-            <marker date="1509305919000" expanded="true" signature="2881:3077" ph="..." />
-            <marker date="1509305919000" expanded="true" signature="2907:3052" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-31200">
@@ -330,6 +314,22 @@
         <state relative-caret-position="-1092">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListMessage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="72" column="11" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
+          <folding>
+            <marker date="1509379213000" expanded="true" signature="2244:2491" ph="..." />
+            <marker date="1509379213000" expanded="true" signature="2644:3416" ph="..." />
+            <marker date="1509379213000" expanded="true" signature="2665:2717" ph="..." />
+            <marker date="1509379213000" expanded="true" signature="2784:3392" ph="..." />
+            <marker date="1509379213000" expanded="true" signature="2823:3113" ph="..." />
+            <marker date="1509379213000" expanded="true" signature="2894:3090" ph="..." />
+            <marker date="1509379213000" expanded="true" signature="2920:3065" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
